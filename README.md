@@ -2,13 +2,9 @@
 <h3 align="center">A passionate backend developer (and gamer) from Brazil!</h3>
 <img align="right" alt="Coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonferreira&label=Profile%20views&color=0e75b6&style=flat" alt="leonferreira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonferreira&label=Profile%20views&color=0e75b6&style=flat" alt="guyjunior" /> </p>
 
 - 🔭 I’m currently working to **improve my dev skills.**
-
-- 🌱 I’m currently learning **Laravel Framework.**
-
-- 🤝 I’m looking for help with **Laravel MVC and API's.**
 
 - 📫 How to reach me **juniorbritto639@gmail.com**
 
